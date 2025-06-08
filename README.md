@@ -1,2 +1,30 @@
-# Frontend Mentor: Age calculator app solution
+# Age Calculator App
 ![age calculator app preview](./src/assets/preview.jpg)
+## Project Description
+
+The Age Calculator App is a responsive web application that allows users to input their birth date and instantly calculate their exact age in years, months, and days. The app features a clean, modern UI and provides instant feedback for invalid inputs, ensuring a smooth user experience across devices.
+
+## Tech Stacks Used
+
+- **React** (with Vite)
+- **JavaScript (ES6+)**
+- **CSS3** (custom styles)
+- **HTML5**
+- **React Hook Form** (for form validation)
+- **Frontend Mentor** design resources
+
+## What I've Learned
+
+- How to build and structure a React project using Vite for fast development and build times.
+- Implementing form validation and error handling using React Hook Form.
+- Creating responsive layouts with modern CSS and ensuring accessibility.
+- Managing component state and props in React for dynamic UI updates.
+- Using custom CSS variables and media queries for theming and responsiveness.
+
+## The Challenges
+
+- Handling edge cases in date validation (e.g., leap years, invalid dates, future dates).
+- Ensuring the app is fully responsive and visually consistent across different screen sizes.
+- Providing clear and user-friendly error messages for invalid input.
+- Fine-tuning the UI to match the design specifications from Frontend Mentor.
+- Managing form state and validation logic efficiently in React.
