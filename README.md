@@ -6,7 +6,7 @@
 
 The Age Calculator App is a responsive web application that allows users to input their birth date and instantly calculate their exact age in years, months, and days. The app features a clean, modern UI and provides instant feedback for invalid inputs, ensuring a smooth user experience across devices.
 
-## Tech Stacks Used
+## Built With
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
@@ -31,3 +31,9 @@ The Age Calculator App is a responsive web application that allows users to inpu
 - Providing clear and user-friendly error messages for invalid input.
 - Fine-tuning the UI to match the design specifications from Frontend Mentor.
 - Managing form state and validation logic efficiently in React.
+
+## Contact
+
+Abhishek - [@abizekv](https://twitter.com/abizekv) - email@example.com
+
+Project Link: [https://github.com/abizekv/age-calculator-app](https://github.com/your_username/age-calculator-app)
