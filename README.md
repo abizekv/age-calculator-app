@@ -34,5 +34,5 @@ The Age Calculator App is a responsive web application that allows users to inpu
 
 ## 📬 Contact Me
 
-[![X (twitter)](https://img.shields.io/badge/@abizekv-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/abizekv)  
+[![X (twitter)](https://img.shields.io/badge/@abizekv-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/abizekv)
 [![Gmail](https://img.shields.io/badge/abizekv@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abizekv@gmail.com)
