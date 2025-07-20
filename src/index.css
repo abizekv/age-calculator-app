@@ -124,7 +124,7 @@ button img{
     font-size:22px;
   }
   div#root{
-    max-width:860px;
+    max-width:700px;
     padding:1.5rem 2rem;
   }
   .arrow-button{
@@ -146,4 +146,3 @@ button img{
     font-size:14px;
   }
 }
-/* test */
